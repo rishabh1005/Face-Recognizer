@@ -1,0 +1,10 @@
+1. Run the Image extract file to extract your face and save it to data folder(saving done automatically)
+2. Run Classifier Train file to train the data for recgoize
+3. Run the Recognize file to run the code
+
+Note:- 
+-->In Image_extract write your name instead of mine in generate_data
+-->In Recognize write your name instead of mine in draw_boundary function
+-->Press Enter to close the gui:) Have Fun
+
+
